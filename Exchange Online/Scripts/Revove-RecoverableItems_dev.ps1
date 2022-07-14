@@ -1,3 +1,14 @@
+<#
+##################################
+##                              ##
+##    ArkusNow | ProjectsNow    ##
+##                              ##
+##################################
+
+
+#>
+
+
 $mbx = get-mailbox "target mailbox"
 
 Do {
@@ -9,3 +20,4 @@ write-host $result.resultitemscount -ForegroundColor Green
 
 
 #New-compliancesearchaction -Purge only deletes 10
+
