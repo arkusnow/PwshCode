@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-# PwshCode
-=======
 # PwshCode
 
 **PowerShell code designed to ease the life of System Administrators and Help Desk Administrators**
@@ -13,5 +10,3 @@
 
 Stay tuned. . . 
 
-Check this out!!
->>>>>>> Stashed changes
